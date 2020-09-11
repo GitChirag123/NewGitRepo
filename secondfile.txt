@@ -1,3 +1,0 @@
-This is another file file to learn Git
-to test .ignore
-
