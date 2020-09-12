@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the file on Master
+=======
+This a a file on b1
+>>>>>>> b1
