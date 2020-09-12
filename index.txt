@@ -1,3 +1,4 @@
+Adding new line 
 <<<<<<< HEAD
 This is the file on Master
 =======
